@@ -1,0 +1,17 @@
+.container {
+  height: 100%;
+}
+
+.strick {
+  text-decoration: line-through;
+}
+
+.color {
+  /* text-decoration: line-through; */
+  margin-right: 10%
+}
+
+.cancel {
+  text-decoration: line-through;
+  margin-right: 10%;
+}
